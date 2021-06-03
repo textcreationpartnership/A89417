@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The malady and remedy of vexations and vniust arrests and actions. Humbly presented to the grave consideration and iust determination of the High Court of Parliament, as matters of speciall concernment to all the Commons of England.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89417</idno><idno type="EEBO-CITATION">99861670</idno>
+  <idno type="VID">113811</idno>
+  <idno type="EEBO-PROQUEST">2240902173</idno>
+  
+            <idno type="STC">Wing M310</idno>
+            <idno type="STC">Thomason E355_7</idno>
+            <idno type="STC">ESTC R201109</idno>
+            <idno type="PROQUEST">99861670</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861670e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113811)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The malady and remedy of vexations and vniust arrests and actions. Humbly presented to the grave consideration and iust determination of the High Court of Parliament, as matters of speciall concernment to all the Commons of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed September 24. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Detention of persons --  England --  Early works to 1800.</term>
+               <term type="topical_term">Civil rights --  England --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113811:1"/>
+            <p>THE MALADY AND REMEDY OF VEXATIONS AND VNIVST ARRESTS AND ACTIONS.</p>
+            <p>HVMBLY PRESENTED TO THE GRAVE consideration and iust determination of the High Court of Parliament, as matters of speciall con<g ref="char:EOLhyphen"/>cernment to all the Commons of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed September 24. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113811:2"/>
+            <head>THE MALADY AND REMEDY OF VEXATIONS AND VNIVST Arrests and Actions.</head>
+            <p>IT hath been observed, and by wofull experience found <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue, that the Inno<g ref="char:EOLhyphen"/>vati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and alteration of any fundamentall point of the Common Law, hath proved dangerous and destructive, to the peoples liberties; therefore it hath been the wisdome and care of our Grandees and wise Senators in former ages to provide for, and looke unto in the first place, to have the Ancient Laws and their Liberties confirmed, which neither by intreaty nor force of Armes (though often <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssayed and attempted) the Commons of this King<g ref="char:EOLhyphen"/>dome could ever be drawne or forced to fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>go or desert, but have against all op<g ref="char:EOLhyphen"/>position, overcomming all d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficulties c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nstantly persevered in maintaining their Lawes, and vindicating their Liberties.</p>
+            <p>Duke <hi>William</hi> of <hi>Normandy</hi> after he had brought <hi>England</hi> under his obedience, attempted, and would h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve ruled by his owne Law, and began to Governe a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l after the Customes of <hi>Normandy,</hi> whereat the N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bility being much grieved, and the people therewith much sadd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and new troubles being ready to break forth: He upon the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmons requ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st▪ and for quieting of the People by his Charter Confirmed, which he twice before h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by oath promised, and gave commande<g ref="char:EOLhyphen"/>ment to his Justiciars to see those Lawes of King <hi>Edward,</hi> called the <hi>Conf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssor,</hi> to be inviolably observed, the great Charter of Libert<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es maintained throughout the whol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me; being to the same eff ct, confirmed after by King <hi>Henry</hi> the first, who not only pleas<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his subj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their Relievements, but likewis<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their suffering<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shing the chiefe ministers of their exactions; and the same was afterward ratified and m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de good by King <hi>John</hi> and <hi>Henry</hi> the third, and by many Parliaments since, by this present Parliament, and by the Petition o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Right.</p>
+            <p>Now there is not any thing which more nearely concerneth, and which the Law more favou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth and regardeth, then the liberty and freedom of a mans per<g ref="char:EOLhyphen"/>son: And not without great reason, seeing a mans liberty is so pretious and of that E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>timation, that the same not undeservedly is valued above al other worldly and Externall Blessings, and without which man can take little delight in what
+<pb n="3" facs="tcp:113811:2"/>else he enjoyeth; for Imprisonment of all other afflictions is one of the heaviest oftentimes worse then death, for thereby a man is kept in a lingring death, and is continually dying, so tender a care and due regard and provision therefore hath the Law ever had for the preservation of the peoples liberties, and freeing mens persons from Vexations of unjust Actions, that by the Constitutions and Fundamentall Lawes of this Kingdome no men were s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bject to Imprisonment for debt, or other personall actions which were not criminall and capitall, but only their goods were lyable to be charged, yea, not their lands, but in some spe<g ref="char:EOLhyphen"/>ciall cases.</p>
+            <p>Yet since by some late Statutes, made upon faire and specious pretences for the Imprisoning mens bodies for debt, the liberty of the people hath been much en<g ref="char:EOLhyphen"/>croached upon, and many thousands thereby made wretched and miserable, yea, and have starved in Prison. It is not to be told what devises and fained Actions and causelesse and unjust Arrests, through the cunning dealing and crafty devises of Atturneys and Sollicitors are since daily framed and executed▪ to the grievous vexation and oppression of the people, whereby able and well minded men by such causelesse Arrests and groundlesse actions are utterly undone, especially Merchants and Trades-men, who by such unjust attempts and wicked practises a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e causelesly cast into prison, and so deprived of their liberty, spoiled of their Trade, and have lost their Credit, whereby many of them are quite ruined and undone, being made a prey to Bayliffes and Sergeants, the catterpillers of the Common-wealth and enslaved to the willes and lusts of hard hearted Gaolors, when often the Actions be either meerely of Malice▪ or for Vexation devised, or the debt but triviall and inconsiderable, if any at all:</p>
+            <p>Yet so high and for so great summes be the same Actions as the parties impri<g ref="char:EOLhyphen"/>soned cannot, (though men of considerable estates) procure baile for answering such Actions, and so most injuriously still detained in prison, till either by death they bee acqu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted, or otherwise being deprived of all other meanes and hopes, constrained to submit and enslave themselves to the lusts and mercilesse cruelty of their adversaries: Now are not these doings, these practises, these kind of men more dangerous, more destructive to the welfare and liberty of the people then open robberies, high way theeves, or Bulglaries?</p>
+            <p>For hee that robs or steales from a man, can take no more then what he finds in his present possession, or that he is able to carry away; whereas the other by such Arrests, and malicious (yea, for the most part groundlesse and causelesse) acti<g ref="char:EOLhyphen"/>ons seases on a mans person, robs him of his liberty, spoiles him of his trade, his credit, and all his meanes of subsistence and livelihood at once, his wife and chil<g ref="char:EOLhyphen"/>dren left desolate and forsaken, an oppression the more grievous and intollerable, the same being done by colour of Law and countenance of Authority, which ought to be the refuge and sanctuary of the innocent and oppressed.</p>
+            <pb n="4" facs="tcp:113811:3"/>
+            <p> And while the pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty thus grieved and imprisoned, strives to recover what hee had so lost by such illegall oppressions, his misery is increased, the cure more dangerous then the disease, and by seeking to avoyd one in<g ref="char:EOLhyphen"/>convenience, is hurried into a greater mischiefe, being driven to consume the remainder of his estate, if any be left him, by an endlesse and fruitlesse suite to the enriching of Atturneyes and Sollicitours, whose greatnesse and wealth rises from the ruines and spoyling of the people: For these men of Law and their Confederates, as Under-Sheriffes, Bayliffes, Gao<g ref="char:EOLhyphen"/>lours, and their Subordinate Officers, the Catterpillers of this King<g ref="char:EOLhyphen"/>dome, who with their uncontrolled exactions and extortions, eat up the Free-borne people of this Nation, as if it were an act as lawfull and neces<g ref="char:EOLhyphen"/>sary as to eat bread.</p>
+            <p>And as there is a neare relation; and correspondencie betweene the Druggest and Apothecary, the Clothier and the Wollen-Draper, the Brasier and the Tinker, so there is no lesse correspondencie betweene these Petti-foggers and Officers of Prisons, by which they abuse and inthrall the Free-borne people: By all which it is apparent, notwithstanding the many and often confirmed Lawes for the preservation of the peoples just Liberties, wee onely have the dead letter, shew and shaddow of the Con<g ref="char:EOLhyphen"/>tinuation thereof, being in truth utterly deprived of all benefit thereby, while wee are thus subject to these kindes of Arrests and Imprisonments, from which no man can say, hee is free, save a few priviledged persons; whose posterity and children are still under, and left unto the same vassal<g ref="char:EOLhyphen"/>lage and bondage.</p>
+            <p>Thus by these Injurious u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and fained Actions and Arrests, we that were and ever have been so accompted the most Free people, are become the most enslaved people, yea, a Kingdome of slaves, whereof we have been for a long time regardlesse, till the same have insensibly overtaken us, and if the same be not spe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly provided for and remedied, wee shall never be able to recover and prevent this oppression and calamity, which <hi>I</hi> con<g ref="char:EOLhyphen"/>ceive the more to be minded, the same being so weighty a businesse, as no<g ref="char:EOLhyphen"/>thing is of a more higher concernment, in regard we have no fitting pro<g ref="char:EOLhyphen"/>vision for the prevention of this mischiefe and malady, till when and while the Free-borne people are subjected, and left open to such causelesse and contentious actions and arrests; all your other Lawes that are or shall be made, though never so faire, specious, or promising, are vaine and fruit<g ref="char:EOLhyphen"/>lesse, seeing they no wayes secure mens persons, nor provide for their Libertys.</p>
+            <pb n="5" facs="tcp:113811:3"/>
+            <p> So as though a man owe not any thing, but have sufficiency for the dis<g ref="char:EOLhyphen"/>charge of his just debts and credits with an overplus for the comfortable subsistence of himself, his wife and family, and whereby hee may the better put himselfe forth for the preferment and advancement of his children; yet notwithstanding all this, he is subject, and both daily and hourely in danger to be robbed and spoiled of all he hath, not by high-way-men and theeves, for these may bee avoyded or secured, if discovered afore<g ref="char:EOLhyphen"/>hand, either by turning out of the way, or Valour, or helpe of friends, neighbours and countrey be rescued, not by Pirats and Sea-Rovers, from these a man may by flight or fighting escape and gaine a safe harbour: But by such as be the abjects of men, such as <hi>Job</hi> tells us, He disdained to <hi>set with dogges of his flockes,</hi> by a company of Atturneyes, Solicitours, Sergeants and Promoters, nay; by any one of these Catterpillers, and Earth wormes, who being set on mischiefe, or other displeasure cause<g ref="char:EOLhyphen"/>lessely conceived, or often-times wickedly hired thereunto, upon a preten<g ref="char:EOLhyphen"/>ded, fained, or forged Action of an hundred pounds, a thousand pounds, or ten thousand pounds by addition or increase of a cypher; (though a man be not in the least liable to any such action) can take and seaze upon his person, of what degree soever he be, (except a few priviledged persons) and cast him into prison to his utter overthrow, and the destruction of his wife and children, no avoydance, no place nor sanctuary there is against these kind of men, Whosoever comes under their power, is in the way of destruction.</p>
+            <p>Wherefore, to free the Kingdome of this lamentable Vassallage and bondage, and more easily to breake this iron yoke of oppression, under which the whole hand groneth and waiteth with a longing expectation of deliverance, if the High Judicature and Court of Parliament, doe really intend and desire, as in all their Protestations, Declarations, and Remon<g ref="char:EOLhyphen"/>strances they have professed and held forth to the world, to restore us to our native and pristine liberties: It much behoveth them to improve their interests, and by their wisdomes and power, for the freeing this people from this thraldome and oppression speedily to provide some good and wholesome Lawes for the prevention and utter abolishing of all Vexati<g ref="char:EOLhyphen"/>ons and unjust Actions and Arrests for pretended debts, by which many thousand Families are undone, and many able and well minded men at this day, are east and lye in the devouring prisons under a miserable servitude and oppression, which by the frequentnesse and daily practice is common, and so insupportable, that the same is become one of the great burthens
+<pb n="6" facs="tcp:113811:4"/>and grievances of the Kingdome, which is the rather to be minded by the Parliament for that this injustice and injurious dealing towards the peo<g ref="char:EOLhyphen"/>ple, is done and countenanced by and under the name and title of ma<g ref="char:EOLhyphen"/>gisteriall Authority, as a colourable pretext to those their unjust pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            <p>Therefore to neglect such an opportunity as this, which is now put in<g ref="char:EOLhyphen"/>to your hands (noble Senators and grave Consins) to doe good for the people for whom you are intrusted, were utterly a fault, and to passe by this mischiefe, in leaving us without hope, without comfort, prostitute to so great a destruction, wou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d bee no small blot and blemish to the proceedings of this Honourable Senate, for to private men it is sufficient and commendable to abstaine from wrong: But for you that be the Su<g ref="char:EOLhyphen"/>preme Magistracy and Rulers of the people, to see and provide that none under you doe wrong, for conniving at, or abetting the faults and mis<g ref="char:EOLhyphen"/>carriages of their subordinate Officers, Superiours make them seeme, and may truly be said to be their owne.</p>
+            <p>Now for Redresse wherof, I as a free commoner of <hi>England,</hi> am bold to apply my selfe, and make my humble addresse unto you in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame and behalfe of my selfe and many thousands free borne of this Nation, spoiled of their birth-right and liberty, now languishing in prisons by these kind of Arrests and groundlesse vexatious Actions, which our suttle and malicius adversaries, have craftily brought us under: Our adversaries being the more encouraged thereunto, in regard they doe us this injury <hi>cum privilegio,</hi> and under authority act this mischiefe, without feare, without charge, saving the disbursement of one foure-pence for the Ar<g ref="char:EOLhyphen"/>rest, though they lay a thousand pound action upon u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, where from to free and rescue our selves, some of us have expended foure thousand pounds, and have been worsted ten th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usand pound, and yet never the nearer the recovery of our liberty, or unsettering our selves from these our bonds and thraldome.</p>
+            <p>In consideration whereof, and for the saving us from a finall and totall overthrow, and preserving our posterity from such vassallage and future destruction, as is now fallen upon us, and threatning them, it is humbly offered to the grave wisdome and consideration of the High Court of Par<g ref="char:EOLhyphen"/>liament, and for the reliefe and remedy in the premises, if so it seeme fit and agreeable with the Justice of that most Honourable Court, that it may by authority of Parliament bee provided for the future.</p>
+            <p n="1">
+               <pb n="7" facs="tcp:113811:4"/> I. That all such as are now imprisoned under any such arrest or action may forthwith bee enlarged, and full reparations made unto them for their losses and sufferings.</p>
+            <p n="2">II. That whosoever shall hereafter arrest and imprison, or procure to be arrested and imprisoned any Merchant or other Free-borne subject, upon any action for debt, where the same is not really due and payable, shall for the first offence in such case, pay to the party grieved and impri<g ref="char:EOLhyphen"/>soned double the summe wherewith he was unjustly and wrongfully char<g ref="char:EOLhyphen"/>ged, over and above the debt truly due if any, the same to be levied of the lands, goods and chattels of the party so offending.</p>
+            <p n="3">III. That whosoever shall hereafter arrest and imprison, or cause to be arrested and imprisoned any Merchant or free Denison for any summe whatsoever above a hundred pound, where there is no bond or specialty. shall first make <hi>Affidavit</hi> before some Judge of Record, that such summe or summes of money bee truly due and unsatisfied, before the party arrested, or to bee arrested, bee committed to any prison whatsoever for the same.</p>
+            <p n="4">IV. That whosoever shall offend in the like case, for the second of<g ref="char:EOLhyphen"/>fence being lawfully convicted thereof, shall not only pay double the summe of the Action, but sh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be likewise set upon the Pillory and stig<g ref="char:EOLhyphen"/>matized, yea, and be disabled ever there-after to sue or implead in any Court of Record: And for the third offence, the same to be capitall, being a crime of such an high n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture, and so punished as in other Common-wealths and well governed States.</p>
+            <p n="5">V. That if the party so offending have not goods and lands, whereby to answer such summe or summes of money, wherein he shall be condem<g ref="char:EOLhyphen"/>ned: For the first offence, to be set upon the Pillory, and three months Imprisonment, for the second offence to be set on the Pillory, and stigma<g ref="char:EOLhyphen"/>tized, and a yeares imprisonment, and ever there after to be disabled to sue or implead in any Court of Record.</p>
+            <p n="6">VI. It is referred to your grave consideration, whether it be agreeable to the Common Law, and <hi>Magna Charta,</hi> which as to the peoples liberties by the Petition of Right, and the Statute of the 17. <hi>Carol.</hi> made for the
+<pb n="8" facs="tcp:113811:5"/>abolishing the Star-chamber, and regulating the Councell Board, is con<g ref="char:EOLhyphen"/>firmed; and to the defence and preservation whereof, you by oath h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> bound your selves, and so whether the same be convenient or legall to i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>prison mens bodies for debt and other faults not criminall, seeing yet the Sheriffe may not sease and take the beasts of the Plough upon any exec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion for debt, in favour and regard of tillage and husbandry; and so con<g ref="char:EOLhyphen"/>sequently, much lesse in all reason and equity the body of the man who is the master, owner and guider of the beast, without whose skill and ind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>stry the beast of the Plough is not only chargeable, but altogether unpro<g ref="char:EOLhyphen"/>fitable.</p>
+            <p>Lastly, wee humbly conceive that the People ought not to be vexed with close and strict imprisonment from yeare to yeare in contempt of the writs and orders of the highest Courts of the Kingdome, especially wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Re vera,</hi> some of them are no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> justly indebted for the value of a penny: B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for want of accesse to a full hearing of their causes, by meanes of the C<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>terpillers aforesaid, have been turmoiled with eleven or twelve yeares sui<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> and imprisonments, even by those who are really indebted unto them, by which oppression some of us have been damnified divers thousands of pounds, and others quite ruined and undone.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
